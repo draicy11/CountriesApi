@@ -1,0 +1,12 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    min-width: 100%;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.button {
+    padding: 10px;
+    text-align: center;
+}
